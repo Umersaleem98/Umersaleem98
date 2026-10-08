@@ -161,9 +161,9 @@ My broader toolkit includes the following technologies alongside my primary web 
 The animated snake below follows my GitHub contribution graph and refreshes daily. The 228-contribution milestone is a one-year snapshot; the animation reflects the currently available contribution graph.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Umersaleem98/Umersaleem98/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Umersaleem98/Umersaleem98/output/github-snake.svg">
-  <img alt="Animated snake following Umer Saleem's GitHub contribution graph" src="https://raw.githubusercontent.com/Umersaleem98/Umersaleem98/output/github-snake.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Umersaleem98/Umersaleem98/output/github-snake-dark.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Umersaleem98/Umersaleem98/output/github-snake.svg?v=1">
+  <img alt="Animated snake following Umer Saleem's GitHub contribution graph" src="https://raw.githubusercontent.com/Umersaleem98/Umersaleem98/output/github-snake.svg?v=1" width="100%">
 </picture>
 
 [View contribution history](https://github.com/Umersaleem98#contributions) · [Animation workflow](https://github.com/Umersaleem98/Umersaleem98/actions/workflows/contribution-snake.yml)
