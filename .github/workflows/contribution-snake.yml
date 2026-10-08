@@ -1,0 +1,72 @@
+name: Contribution snake
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/contribution-snake.yml'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate contribution animations
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b
+        with:
+          github_user_name: Umersaleem98
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            dist/github-snake.svg?color_snake=#168b80
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#54dac7
+      - name: Save generated assets
+        uses: actions/upload-artifact@v4
+        with:
+          name: contribution-animations
+          path: dist/*.svg
+          if-no-files-found: error
+
+  publish:
+    needs: generate
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/download-artifact@v4
+        with:
+          name: contribution-animations
+          path: generated
+      - name: Publish animation assets
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git show-ref --verify --quiet refs/remotes/origin/output; then
+            git worktree add ../profile-output output
+          else
+            git worktree add --detach ../profile-output
+            git -C ../profile-output switch --orphan output
+          fi
+          cp generated/*.svg ../profile-output/
+          cd ../profile-output
+          git add github-snake.svg github-snake-dark.svg
+          if git diff --cached --quiet; then
+            echo "Contribution animation is already current."
+          else
+            git commit -m "Update contribution snake animation"
+            git push origin output
+          fi

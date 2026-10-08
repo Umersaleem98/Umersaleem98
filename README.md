@@ -6,7 +6,7 @@
 
 I build web applications that connect clear user interfaces with practical backend systems. My main focus is Laravel, PHP, MySQL and modern JavaScript, with work across admin dashboards, REST APIs, business applications and responsive websites.
 
-[Portfolio](https://candycodecoffe.site/) · [LinkedIn](https://www.linkedin.com/in/umer-saleem-4154ba1ba/) · [Email](mailto:umer.saleem.abbasi109@gmail.com) · [Selected projects](#selected-projects) · [Technical skills](#technical-skills)
+[Portfolio](https://candycodecoffe.site/) · [LinkedIn](https://www.linkedin.com/in/umer-saleem-4154ba1ba/) · [Email](mailto:umer.saleem.abbasi109@gmail.com) · [Selected projects](#selected-projects) · [Technical skills](#technical-skills) · [Contribution activity](#contribution-activity)
 
 ---
 
@@ -22,6 +22,106 @@ I am particularly interested in backend architecture, database design and perfor
 - **Backend systems:** REST APIs, authentication, input validation and database-driven CRUD features.
 - **Modern interfaces:** responsive websites, reusable React components and practical forms.
 - **Retail workflows:** checkout, inventory tracking, invoicing, reporting and role-based access.
+
+## Highlights & achievements
+
+![Portfolio milestones: 10 featured projects, 5 live-site links and a 228-contribution one-year milestone](assets/portfolio-milestones.svg)
+
+- **Ten featured projects** covering university platforms, retail operations, service management, healthcare and business websites.
+- **Five live-site links** connecting this portfolio to published institutional and company websites.
+- **228 contributions in a one-year profile snapshot** — a personal contribution milestone.
+- **Full-stack project experience** spanning Laravel/PHP applications and a Next.js/TypeScript retail workspace.
+
+## Selected projects
+
+Ten selected projects across institutional platforms, retail software, service applications and business websites.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Umersaleem98/POS"><img src="assets/projects/POS.svg" alt="POS — Retail management" width="100%"></a>
+<h3>POS</h3>
+<p>Checkout, inventory, invoices, reporting and configurable role permissions in a complete web-based retail workspace.</p>
+<p><strong>Technology:</strong> Next.js · TypeScript · MySQL/MariaDB</p>
+<p><a href="https://github.com/Umersaleem98/POS">View source</a> · <a href="https://github.com/Umersaleem98/POS#screenshots">Screenshots ↗</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Umersaleem98/NUST-Endowment-Catalogue"><img src="assets/projects/NUST-Endowment-Catalogue.svg" alt="NUST Endowment Catalogue — Institutional giving" width="100%"></a>
+<h3>NUST Endowment Catalogue</h3>
+<p>An institutional catalogue presenting endowment programs, scholarship support and opportunities to fund student-focused initiatives.</p>
+<p><strong>Technology:</strong> Laravel · PHP · Blade</p>
+<p><a href="https://github.com/Umersaleem98/NUST-Endowment-Catalogue">Private source</a> · <a href="https://endowment-catalogue.nust.edu.pk/">Live website ↗</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Umersaleem98/NUST-Sharing-Network"><img src="assets/projects/NUST-Sharing-Network.svg" alt="NUST Sharing Network — Student support" width="100%"></a>
+<h3>NUST Sharing Network</h3>
+<p>A student-support platform with pages for exploring needs, sharing student stories and presenting community impact.</p>
+<p><strong>Technology:</strong> Laravel · PHP · JavaScript</p>
+<p><a href="https://github.com/Umersaleem98/NUST-Sharing-Network">View source</a> · <a href="https://sharing-network.nust.edu.pk/">Live website ↗</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Umersaleem98/GraFlex-website"><img src="assets/projects/GraFlex-website.svg" alt="GraFlex — Business &amp; ordering" width="100%"></a>
+<h3>GraFlex</h3>
+<p>A business website with order submission, order tracking, account registration and an authenticated dashboard.</p>
+<p><strong>Technology:</strong> Laravel · PHP · HTML/JavaScript</p>
+<p><a href="https://github.com/Umersaleem98/GraFlex-website">View source</a> · <a href="http://graflex.site/">Live website ↗</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Umersaleem98/aone-international"><img src="assets/projects/aone-international.svg" alt="Aone International — Corporate website" width="100%"></a>
+<h3>Aone International</h3>
+<p>A Laravel-based company website presenting Aone International through a dedicated public web presence.</p>
+<p><strong>Technology:</strong> Laravel · PHP · Blade</p>
+<p><a href="https://github.com/Umersaleem98/aone-international">Private source</a> · <a href="https://aoneinternational.com.pk/">Live website ↗</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Umersaleem98/handyhub_services"><img src="assets/projects/handyhub_services.svg" alt="HandyHub Services — Service management" width="100%"></a>
+<h3>HandyHub Services</h3>
+<p>A service-focused application with account registration, an administration dashboard, user verification and service management.</p>
+<p><strong>Technology:</strong> Laravel · PHP · Blade</p>
+<p><a href="https://github.com/Umersaleem98/handyhub_services">View source</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Umersaleem98/NUST-Alumni-Office-Portal-UI"><img src="assets/projects/NUST-Alumni-Office-Portal-UI.svg" alt="NUST Alumni Office Portal — Alumni community" width="100%"></a>
+<h3>NUST Alumni Office Portal</h3>
+<p>An alumni-facing portal with chapters, events, privileges, community connections and giving-back information.</p>
+<p><strong>Technology:</strong> Laravel · PHP · JavaScript</p>
+<p><a href="https://github.com/Umersaleem98/NUST-Alumni-Office-Portal-UI">View source</a> · <a href="https://alumni.nust.edu.pk/">Live website ↗</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Umersaleem98/NUST-Financial-Aid-Office"><img src="assets/projects/NUST-Financial-Aid-Office.svg" alt="NUST Financial Aid Office — Institutional web project" width="100%"></a>
+<h3>NUST Financial Aid Office</h3>
+<p>A Laravel web project for NUST's Financial Aid Office, extending my portfolio of institutional applications.</p>
+<p><strong>Technology:</strong> Laravel · PHP · Blade</p>
+<p><a href="https://github.com/Umersaleem98/NUST-Financial-Aid-Office">Private source</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Umersaleem98/Alkurshid_project"><img src="assets/projects/Alkurshid_project.svg" alt="Alkurshid — Healthcare website" width="100%"></a>
+<h3>Alkurshid</h3>
+<p>A healthcare website presenting services, doctors and departments, with contact and appointment request forms.</p>
+<p><strong>Technology:</strong> Laravel · PHP · JavaScript</p>
+<p><a href="https://github.com/Umersaleem98/Alkurshid_project">View source</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Umersaleem98/nutridrive"><img src="assets/projects/nutridrive.svg" alt="NutriDrive — Store &amp; web experience" width="100%"></a>
+<h3>NutriDrive</h3>
+<p>A Laravel web application combining a product-store interface, account access and informational website pages.</p>
+<p><strong>Technology:</strong> Laravel · PHP · JavaScript</p>
+<p><a href="https://github.com/Umersaleem98/nutridrive">View source</a></p>
+</td>
+</tr>
+</table>
+
+Private source links are available to authorized collaborators. The live website links above are provided separately for portfolio viewing.
+
+[Browse all public repositories →](https://github.com/Umersaleem98?tab=repositories)
 
 ## Technical skills
 
@@ -56,49 +156,17 @@ My broader toolkit includes the following technologies alongside my primary web 
 | Data & cloud platforms | PostgreSQL, MongoDB, Firebase, AWS |
 | Operating environment | Linux fundamentals |
 
-## Selected projects
+## Contribution activity
 
-### POS — Retail management workspace
+The animated snake below follows my GitHub contribution graph and refreshes daily. The 228-contribution milestone is a one-year snapshot; the animation reflects the currently available contribution graph.
 
-A web-based point of sale application bringing checkout, stock, billing and reporting into one workspace. It includes configurable role permissions, store-scoped access, transaction-safe stock updates, invoices and CSV/PDF reports.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Umersaleem98/Umersaleem98/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Umersaleem98/Umersaleem98/output/github-snake.svg">
+  <img alt="Animated snake following Umer Saleem's GitHub contribution graph" src="https://raw.githubusercontent.com/Umersaleem98/Umersaleem98/output/github-snake.svg" width="100%">
+</picture>
 
-**Stack:** Next.js · React · TypeScript · MySQL/MariaDB
-
-[Explore repository](https://github.com/Umersaleem98/POS) · [View screenshots](https://github.com/Umersaleem98/POS#screenshots)
-
-### Multi-Step Registration Form
-
-A Laravel application that guides students through personal, department and course details in a structured registration flow.
-
-**Stack:** Laravel · PHP · Bootstrap
-
-[Explore repository](https://github.com/Umersaleem98/Multi-Step-Form)
-
-### MockSheet — Practice test application
-
-A browser-based mock test application with Excel question imports, timed tests, automatic scoring and answer review. Data persists in localStorage; the application runs without a backend server.
-
-**Stack:** React · Vite · JavaScript · localStorage
-
-[Explore repository](https://github.com/Umersaleem98/Mock-Test-Application-)
-
-### React To-Do List
-
-A responsive task management application with task creation, editing, completion, deletion and drag-and-drop ordering.
-
-**Stack:** React · Bootstrap · React Icons · @hello-pangea/dnd
-
-[Explore repository](https://github.com/Umersaleem98/react-todo-list-app)
-
-### Laravel REST API
-
-A Laravel repository focused on REST API development, complementing my work on database-driven PHP applications.
-
-**Stack:** Laravel · PHP
-
-[Explore repository](https://github.com/Umersaleem98/Rest_API_in_laravel)
-
-[Browse all public repositories →](https://github.com/Umersaleem98?tab=repositories)
+[View contribution history](https://github.com/Umersaleem98#contributions) · [Animation workflow](https://github.com/Umersaleem98/Umersaleem98/actions/workflows/contribution-snake.yml)
 
 ## How I approach development
 

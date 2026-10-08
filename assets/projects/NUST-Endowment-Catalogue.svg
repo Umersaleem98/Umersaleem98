@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="164" viewBox="0 0 600 164" role="img" aria-label="NUST Endowment Catalogue">
+  <rect width="600" height="164" rx="12" fill="#16354a"/>
+  <rect x="26" y="30" width="4" height="104" rx="2" fill="#7fc6e5"/>
+  <text x="47" y="51" fill="#86b6c7" font-family="Arial, sans-serif" font-size="11" letter-spacing="1.8">EDUCATION &amp; ENDOWMENT</text>
+  <text x="45" y="90" fill="#f1f5fb" font-family="Arial, sans-serif" font-size="24" font-weight="700">NUST Endowment Catalogue</text>
+  <text x="47" y="124" fill="#a1b5ca" font-family="Arial, sans-serif" font-size="14">Institutional giving</text>
+  <text x="554" y="104" text-anchor="end" fill="#ffffff" opacity="0.10" font-family="Arial, sans-serif" font-size="65" font-weight="700">EC</text>
+</svg>

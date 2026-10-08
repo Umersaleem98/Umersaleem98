@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="172" viewBox="0 0 1200 172" role="img" aria-label="10 featured projects, 5 live-site links, 228 contributions in a one-year milestone">
+  <rect width="1200" height="172" rx="16" fill="#101f35"/>
+  <path d="M400 30v112M800 30v112" stroke="#29415b"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="46" y="81" fill="#54dac7" font-size="48" font-weight="700">10</text>
+    <text x="46" y="120" fill="#c1d1e4" font-size="20">Featured projects</text>
+    <text x="446" y="81" fill="#74a9f8" font-size="48" font-weight="700">05</text>
+    <text x="446" y="120" fill="#c1d1e4" font-size="20">Live-site links</text>
+    <text x="846" y="81" fill="#54dac7" font-size="48" font-weight="700">228</text>
+    <text x="846" y="120" fill="#c1d1e4" font-size="18">One-year contribution milestone</text>
+  </g>
+</svg>
