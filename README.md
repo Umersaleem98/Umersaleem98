@@ -6,7 +6,7 @@
 
 I build web applications that connect clear user interfaces with practical backend systems. My main focus is Laravel, PHP, MySQL and modern JavaScript, with work across admin dashboards, REST APIs, business applications and responsive websites.
 
-[LinkedIn](https://www.linkedin.com/in/umer-saleem-4154ba1ba/) · [Email](mailto:umer.saleem.abbasi109@gmail.com) · [Selected projects](#selected-projects) · [Technical skills](#technical-skills)
+[Portfolio](https://candycodecoffe.site/) · [LinkedIn](https://www.linkedin.com/in/umer-saleem-4154ba1ba/) · [Email](mailto:umer.saleem.abbasi109@gmail.com) · [Selected projects](#selected-projects) · [Technical skills](#technical-skills)
 
 ---
 
@@ -63,6 +63,7 @@ My broader toolkit includes the following technologies alongside my primary web 
 A web-based point of sale application bringing checkout, stock, billing and reporting into one workspace. It includes configurable role permissions, store-scoped access, transaction-safe stock updates, invoices and CSV/PDF reports.
 
 **Stack:** Next.js · React · TypeScript · MySQL/MariaDB
+
 [Explore repository](https://github.com/Umersaleem98/POS) · [View screenshots](https://github.com/Umersaleem98/POS#screenshots)
 
 ### Multi-Step Registration Form
@@ -70,6 +71,7 @@ A web-based point of sale application bringing checkout, stock, billing and repo
 A Laravel application that guides students through personal, department and course details in a structured registration flow.
 
 **Stack:** Laravel · PHP · Bootstrap
+
 [Explore repository](https://github.com/Umersaleem98/Multi-Step-Form)
 
 ### MockSheet — Practice test application
@@ -77,6 +79,7 @@ A Laravel application that guides students through personal, department and cour
 A browser-based mock test application with Excel question imports, timed tests, automatic scoring and answer review. Data persists in localStorage; the application runs without a backend server.
 
 **Stack:** React · Vite · JavaScript · localStorage
+
 [Explore repository](https://github.com/Umersaleem98/Mock-Test-Application-)
 
 ### React To-Do List
@@ -84,6 +87,7 @@ A browser-based mock test application with Excel question imports, timed tests, 
 A responsive task management application with task creation, editing, completion, deletion and drag-and-drop ordering.
 
 **Stack:** React · Bootstrap · React Icons · @hello-pangea/dnd
+
 [Explore repository](https://github.com/Umersaleem98/react-todo-list-app)
 
 ### Laravel REST API
@@ -91,6 +95,7 @@ A responsive task management application with task creation, editing, completion
 A Laravel repository focused on REST API development, complementing my work on database-driven PHP applications.
 
 **Stack:** Laravel · PHP
+
 [Explore repository](https://github.com/Umersaleem98/Rest_API_in_laravel)
 
 [Browse all public repositories →](https://github.com/Umersaleem98?tab=repositories)
@@ -107,6 +112,7 @@ I am open to collaboration on Laravel applications, REST APIs, admin dashboards 
 
 | Channel | Link |
 | --- | --- |
+| Portfolio | [candycodecoffe.site](https://candycodecoffe.site/) |
 | Email | [umer.saleem.abbasi109@gmail.com](mailto:umer.saleem.abbasi109@gmail.com) |
 | LinkedIn | [Umer Saleem](https://www.linkedin.com/in/umer-saleem-4154ba1ba/) |
 | WhatsApp | [+92 312 2096659](https://wa.me/923122096659) |
