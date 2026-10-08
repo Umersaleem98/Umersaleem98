@@ -1,111 +1,114 @@
-# 💫 Hi, I'm Umer Saleem  
-**Full Stack Web Developer | Laravel Specialist | Software Engineer (Pakistan 🇵🇰)**
+![Umer Saleem — Full-stack Web Developer, Laravel, PHP, React, Next.js and MySQL](assets/profile-banner.svg)
 
-📧 Email: **umer.saleem.abbasi109@gmail.com**  
-📱 WhatsApp: **0312-2096659**
+# Umer Saleem
 
----
+**Full-stack Web Developer · Laravel & PHP · Pakistan**
 
-## 👨‍💻 About Me
+I build web applications that connect clear user interfaces with practical backend systems. My main focus is Laravel, PHP, MySQL and modern JavaScript, with work across admin dashboards, REST APIs, business applications and responsive websites.
 
-- 🔭 Working on **Laravel-based web applications & admin dashboards**
-- 🌱 Currently learning **Advanced Laravel, React integration & system optimization**
-- 👯 Open to collaboration on **Laravel apps, REST APIs & dashboards**
-- 🤔 Interested in **scalable backend architecture & performance tuning**
-- 💬 Ask me about **Laravel, PHP, MySQL, React, and API development**
-- ⚡ Fun fact: I love turning complex problems into clean, working systems ☕
+[LinkedIn](https://www.linkedin.com/in/umer-saleem-4154ba1ba/) · [Email](mailto:umer.saleem.abbasi109@gmail.com) · [Selected projects](#selected-projects) · [Technical skills](#technical-skills)
 
 ---
 
-## 🌐 Socials
+## About me
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/candycode153)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umer-saleem-4154ba1ba)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?logo=youtube&logoColor=white)](https://youtube.com/@webtechwithdx9544)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:umer.saleem.abbasi109@gmail.com)
+I enjoy turning complex workflows into applications that are straightforward to use and maintain. My repositories include Laravel applications, React interfaces, API development and a full-stack retail workspace built with Next.js and MySQL.
 
----
+I am particularly interested in backend architecture, database design and performance tuning. I continue to develop my skills in advanced Laravel, React integration and system optimization, and I welcome collaboration on web applications, REST APIs and dashboard projects.
 
-## 🐍 Contribution Snake
+## What I build
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="snake animation" />
-</div>
+- **Business applications:** admin dashboards, product catalogs, customer records and operational workflows.
+- **Backend systems:** REST APIs, authentication, input validation and database-driven CRUD features.
+- **Modern interfaces:** responsive websites, reusable React components and practical forms.
+- **Retail workflows:** checkout, inventory tracking, invoicing, reporting and role-based access.
 
----
+## Technical skills
 
-## 💻 Tech Stack
+### Primary development stack
 
-### 🧠 Programming Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=222222)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
----
+| Discipline | Technologies | Areas of focus |
+| --- | --- | --- |
+| Backend development | Laravel, PHP, Node.js | REST APIs, application workflows, authentication and validation |
+| Frontend development | React, Next.js, JavaScript, TypeScript | Component-based interfaces, forms and client/server integration |
+| Interface styling | HTML, CSS, Tailwind CSS, Bootstrap | Responsive layouts, reusable styling and dashboard interfaces |
+| Relational data | MySQL, MariaDB | Schema design, CRUD operations, transactions and reporting |
+| Development workflow | Git, GitHub, GitLab, Jira | Version control, issue tracking and project organization |
+| Build & local environment | Vite, npm, Apache, XAMPP | Frontend tooling and local application setup |
 
-### ⚙️ Backend Development
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge)
-![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+### Additional technologies
 
----
+My broader toolkit includes the following technologies alongside my primary web development stack.
 
-### 🎨 Frontend Development
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+| Category | Technologies |
+| --- | --- |
+| Programming languages | Python, C, C++ |
+| Backend frameworks | Django, Express.js, NestJS |
+| Frontend framework | Vue.js |
+| Data & cloud platforms | PostgreSQL, MongoDB, Firebase, AWS |
+| Operating environment | Linux fundamentals |
 
----
+## Selected projects
 
-### 🗄️ Databases & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### POS — Retail management workspace
 
----
+A web-based point of sale application bringing checkout, stock, billing and reporting into one workspace. It includes configurable role permissions, store-scoped access, transaction-safe stock updates, invoices and CSV/PDF reports.
 
-### 🛠️ Tools & Platforms
-Git • GitHub • GitLab • Jira • Vite • NPM • Apache • Linux (basic)
+**Stack:** Next.js · React · TypeScript · MySQL/MariaDB
+[Explore repository](https://github.com/Umersaleem98/POS) · [View screenshots](https://github.com/Umersaleem98/POS#screenshots)
 
----
+### Multi-Step Registration Form
 
-## 📊 GitHub Stats
+A Laravel application that guides students through personal, department and course details in a structured registration flow.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Umersaleem98&theme=dark&show_icons=true&hide_border=false)
+**Stack:** Laravel · PHP · Bootstrap
+[Explore repository](https://github.com/Umersaleem98/Multi-Step-Form)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Umersaleem98&theme=dark)
+### MockSheet — Practice test application
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Umersaleem98&layout=compact&theme=dark)
+A browser-based mock test application with Excel question imports, timed tests, automatic scoring and answer review. Data persists in localStorage; the application runs without a backend server.
 
----
+**Stack:** React · Vite · JavaScript · localStorage
+[Explore repository](https://github.com/Umersaleem98/Mock-Test-Application-)
 
-## 🏆 GitHub Trophies
+### React To-Do List
 
-![](https://github-profile-trophy.vercel.app/?username=Umersaleem98&theme=radical&no-frame=true&margin-w=4)
+A responsive task management application with task creation, editing, completion, deletion and drag-and-drop ordering.
 
----
+**Stack:** React · Bootstrap · React Icons · @hello-pangea/dnd
+[Explore repository](https://github.com/Umersaleem98/react-todo-list-app)
 
-## ✍️ Dev Quote
+### Laravel REST API
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+A Laravel repository focused on REST API development, complementing my work on database-driven PHP applications.
 
----
+**Stack:** Laravel · PHP
+[Explore repository](https://github.com/Umersaleem98/Rest_API_in_laravel)
 
-## 🔝 Top Repositories
+[Browse all public repositories →](https://github.com/Umersaleem98?tab=repositories)
 
-![](https://github-contributor-stats.vercel.app/api?username=Umersaleem98&limit=5&theme=dark)
+## How I approach development
 
----
+I aim for readable code, clear application structure and interfaces that make everyday tasks easier. I pay attention to input validation, access boundaries and data consistency, and I value documentation that helps another developer understand and run a project.
 
-## 👁️ Profile Views
+My current learning priorities are advanced Laravel patterns, frontend/backend integration, backend architecture and performance optimization.
 
-[![](https://visitcount.itsvg.in/api?id=Umersaleem98&icon=0&color=0)](https://visitcount.itsvg.in)
+## Connect with me
+
+I am open to collaboration on Laravel applications, REST APIs, admin dashboards and full-stack web projects. Share your project context, the problem you want to solve and the scope of the work.
+
+| Channel | Link |
+| --- | --- |
+| Email | [umer.saleem.abbasi109@gmail.com](mailto:umer.saleem.abbasi109@gmail.com) |
+| LinkedIn | [Umer Saleem](https://www.linkedin.com/in/umer-saleem-4154ba1ba/) |
+| WhatsApp | [+92 312 2096659](https://wa.me/923122096659) |
+| YouTube | [Web Tech with DX](https://www.youtube.com/@webtechwithdx9544) |
+| Instagram | [@candycode153](https://www.instagram.com/candycode153/) |

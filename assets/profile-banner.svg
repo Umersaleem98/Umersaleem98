@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Umer Saleem — Full-stack Web Developer</title>
+  <desc id="desc">A navy and teal profile banner highlighting Laravel, PHP, React, Next.js and MySQL.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0c1729"/>
+      <stop offset="1" stop-color="#19354a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#54dac7"/>
+      <stop offset="1" stop-color="#74a9f8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="18" fill="url(#background)"/>
+  <path d="M880 0h320v320H760z" fill="#ffffff" opacity="0.025"/>
+  <rect x="56" y="58" width="48" height="4" rx="2" fill="url(#accent)"/>
+  <text x="56" y="102" fill="#8dd8d0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="3">DEVELOPER · PAKISTAN</text>
+  <text x="52" y="174" fill="#f4f7fc" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" letter-spacing="-2">Umer Saleem</text>
+  <text x="56" y="216" fill="#c3d1e2" font-family="Arial, Helvetica, sans-serif" font-size="25">Full-stack Web Developer</text>
+  <text x="56" y="270" fill="#97adbf" font-family="Arial, Helvetica, sans-serif" font-size="17">Laravel / PHP / React / Next.js / MySQL</text>
+  <rect x="861" y="72" width="251" height="176" rx="16" fill="#12263a" stroke="#355269"/>
+  <circle cx="887" cy="97" r="4" fill="#54dac7"/>
+  <circle cx="901" cy="97" r="4" fill="#74a9f8"/>
+  <circle cx="915" cy="97" r="4" fill="#9ab0c6"/>
+  <path d="M886 113h201" stroke="#355269"/>
+  <text x="986" y="187" text-anchor="middle" fill="#dce8f3" font-family="Consolas, monospace" font-size="56" font-weight="700">&lt;/&gt;</text>
+  <text x="986" y="222" text-anchor="middle" fill="#74c6be" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2">BUILD WITH PURPOSE</text>
+</svg>
