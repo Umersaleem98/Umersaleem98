@@ -32,6 +32,24 @@ I am particularly interested in backend architecture, database design and perfor
 - **228 contributions in a one-year profile snapshot** — a personal contribution milestone.
 - **Full-stack project experience** spanning Laravel/PHP applications and a Next.js/TypeScript retail workspace.
 
+<!-- FORM-GYM-PROJECT:START -->
+## Latest project · FORM Gym Management System
+
+A Laravel and MySQL application for gym operations and personal fitness tracking, with a responsive public website and a shared admin/member dashboard.
+
+[![FORM Gym Management System dashboard](https://raw.githubusercontent.com/Umersaleem98/gym-management-system/main/docs/screenshots/member-dashboard.jpg)](https://github.com/Umersaleem98/gym-management-system)
+
+- **Management:** members, plans, payments, trainers, classes, attendance and website content.
+- **Member experience:** workout records, fitness goals, streaks, achievements, notifications and a personal calendar.
+- **Reporting:** database-driven analytics and PDF, Excel and CSV exports.
+- **Stack:** Laravel 13 · PHP 8.4 · MySQL · Blade · Bootstrap 5 · Chart.js · FullCalendar.
+- **Validation:** 51 automated tests, with an additional rollback-only MySQL workflow check.
+
+[View source & setup guide](https://github.com/Umersaleem98/gym-management-system) · [Screenshots](https://github.com/Umersaleem98/gym-management-system#screenshots)
+
+Google OAuth, SMTP delivery and Stripe checkout are configurable integrations; live credentials are not included in the repository.
+<!-- FORM-GYM-PROJECT:END -->
+
 ## Selected projects
 
 Ten selected projects across institutional platforms, retail software, service applications and business websites.
