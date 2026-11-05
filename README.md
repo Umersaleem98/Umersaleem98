@@ -32,6 +32,29 @@ I am particularly interested in backend architecture, database design and perfor
 - **228 contributions in a one-year profile snapshot** — a personal contribution milestone.
 - **Full-stack project experience** spanning Laravel/PHP applications and a Next.js/TypeScript retail workspace.
 
+<!-- RANG-MAHAL-PROJECT:START -->
+## Featured project · Rang Mahal
+
+A live Pakistani saree e-commerce store celebrating traditional colours and craftsmanship, with a Laravel backend, React storefront and MySQL database.
+
+[![Rang Mahal live storefront — traditional Pakistani sarees](https://raw.githubusercontent.com/Umersaleem98/rang-mahal-saree-store/main/docs/screenshots/storefront.webp)](https://rangmahal.site/)
+
+- **Shopping:** responsive collections, wishlist, right-side bag, guest checkout and cash on delivery.
+- **Product experience:** complete-image viewing, zoom, photo/video galleries and standard XS–XL stitched sizes.
+- **Retail operations:** seven-step product publishing, brands/categories, inventory, staff permissions and fulfillment.
+- **Order updates:** tracking by reference and checkout email, branded notifications and recorded mail attempts.
+- **Stack:** Laravel 12 · PHP 8.2+ · React 19 · Vite · MySQL.
+
+[Live website](https://rangmahal.site/) · [Source & setup](https://github.com/Umersaleem98/rang-mahal-saree-store) · [Project screenshots](https://github.com/Umersaleem98/rang-mahal-saree-store#screenshots)
+
+<details>
+<summary>See the product viewer and size selection</summary>
+
+![Rang Mahal product viewer with XS–XL size selection](https://raw.githubusercontent.com/Umersaleem98/rang-mahal-saree-store/main/docs/screenshots/product-sizing.webp)
+
+</details>
+<!-- RANG-MAHAL-PROJECT:END -->
+
 <!-- FORM-GYM-PROJECT:START -->
 ## Latest project · FORM Gym Management System
 
